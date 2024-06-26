@@ -1,3 +1,3 @@
 # Interview Questions
 
-- [Design](/design)
+- [Design](/dailydoseofdevops/design)
