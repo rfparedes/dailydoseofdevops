@@ -2,6 +2,18 @@
 
 ## Design
 
+- [Interview Questions](#interview-questions)
+  * [Design](#design)
+    + [Design a system to distribute a Linux kernel patch to thousands of servers](#design-a-system-to-distribute-a-linux-kernel-patch-to-thousands-of-servers)
+      - [Key Points to Cover:](#key-points-to-cover-)
+      - [Example Response:](#example-response-)
+    + [Design a system to centralize web server logs into a (few) servers, possibly running OLAP type queries](#design-a-system-to-centralize-web-server-logs-into-a--few--servers--possibly-running-olap-type-queries)
+      - [Key Points to Cover:](#key-points-to-cover--1)
+      - [Example Response:](#example-response--1)
+    + [Design a website that sells one product with very high traffic in a short amount of time (e.g., a promo in a Super Bowl commercial)](#design-a-website-that-sells-one-product-with-very-high-traffic-in-a-short-amount-of-time--eg--a-promo-in-a-super-bowl-commercial-)
+      - [Key Points to Cover:](#key-points-to-cover--2)
+      - [Example Response:](#example-response--2)
+
 ### Design a system to distribute a Linux kernel patch to thousands of servers
 
 #### Key Points to Cover:
